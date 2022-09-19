@@ -1,1 +1,35 @@
 
+Plan for Mod 0" documenting your game plan for success in Mod 0
+# Mod 0
+## Game Plan For Success
+
+To do:
+1. create calendar
+2. prioritize using Trello
+
+
+List of tools:
+- mac
+- WFH desk set up
+- Lots of coffee
+
+Daily affirmation *quote*:
+ today **"A lot of hard work is hidden behind nice things."**
+
+
+at least one Ruby or JavaScript code block (the code doesn’t need to be anything fancy!)
+```javascript
+var add2 = function(number) {
+  return number + 2;
+  function(3);
+}
+```
+
+at least one inline code block (greyed text)
+
+at least one image
+Inline-style:
+![alt text](https://img.freepik.com/free-vector/spring-flower-collection_23-2148853687.jpg?w=1800&t=st=1663621324~exp=1663621924~hmac=5430fb76c63bdd01881bca4431802134503d26c8a952b6a11cb40f133a70184b "Logo Title Text 1")
+
+
+[Link to W3 School JavaScript](https://www.google.com)
